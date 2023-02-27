@@ -1,6 +1,6 @@
 {
   "name": "mynewcli",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "oclif example Hello World CLI",
   "author": "akshay.patel@goavega.com @Ak-patel",
   "bin": {

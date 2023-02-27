@@ -23,7 +23,7 @@ $ npm install -g mynewcli
 $ mynewcli COMMAND
 running command...
 $ mynewcli (--version)
-mynewcli/1.0.0 win32-x64 node-v18.13.0
+mynewcli/2.0.0 win32-x64 node-v18.13.0
 $ mynewcli --help [COMMAND]
 USAGE
   $ mynewcli COMMAND
@@ -79,7 +79,7 @@ EXAMPLES
   hello friend from oclif! (./src/commands/hello/index.ts)
 ```
 
-_See code: [dist/commands/hello/index.ts](https://github.com/Ak-patel/hello-world/blob/v1.0.0/dist/commands/hello/index.ts)_
+_See code: [dist/commands/hello/index.ts](https://github.com/Ak-patel/hello-world/blob/v2.0.0/dist/commands/hello/index.ts)_
 
 ## `mynewcli hello world`
 
